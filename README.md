@@ -1,0 +1,1 @@
+Some fun with https://codegolf.stackexchange.com/questions/178344/oreoorererereoo
